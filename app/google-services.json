@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95570566869",
+    "project_id": "zapiermobile-9",
+    "storage_bucket": "zapiermobile-9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95570566869:android:119832162fd2cd1b708c5c",
+        "android_client_info": {
+          "package_name": "com.sam.zapiermobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95570566869-v92lmq3fclhvtdt2ttcl0pu0c7sqilec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sam.zapiermobile",
+            "certificate_hash": "c45422987a41f4f96f1082e83f0deb77d07eb925"
+          }
+        },
+        {
+          "client_id": "95570566869-etb1r0vkp9ad9s1bbrkct1d7edpbrfb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0B2uO7ptojN86M2Vbkh5XG1RI1DoAFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95570566869-etb1r0vkp9ad9s1bbrkct1d7edpbrfb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
